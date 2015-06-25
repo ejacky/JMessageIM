@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/JMessageDemo/libs/jmessage-android-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/JMessageDemo/libs/picasso-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/JMessageDemo/libs/nineoldandroids-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/JMessageDemo/libs/android-support-v7-appcompat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/JMessageDemo/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
